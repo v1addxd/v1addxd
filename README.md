@@ -4,6 +4,13 @@
 
 ### Я начинающий специалист в области ручного тестирования ПО. Последние пол года я самостоятельно обучался в этой области и набирался опыта на локальных проектах. На данный момент активно веду поиск стажировки для начала своего пути в IT сфере
 
+### Пройденные курсы
+- [Тестирование ПО с нуля. Теория + Практика](https://stepik.org/cert/2795048)
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info)
+
+### Выполненные проекты
+- [Выполнение тестового задания для Effective Mobile] (https://drive.google.com/drive/folders/1oj2KOv20MiAL54UHZgQKqUqCwPMifz7c?hl=ru)
+
 ### Tools:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=Postman&logoColor=097CDB)
