@@ -1,5 +1,5 @@
 <a href="https://www.linkedin.com/in/belikqa/" target="_blank">
-  <img src="https://github.com/v1addxd/v1addxd/blob/main/Assets/Banner%403x-scaled.webp" alt="The Unlimited" width="180"/>
+  <img src="https://github.com/v1addxd/v1addxd/blob/main/Assets/Banner%403x-scaled.webp" alt="The Unlimited" width="1000"/>
 </a>
 
 ### Я начинающий специалист в области ручного тестирования ПО. Последние пол года я самостоятельно обучался в этой области и набирался опыта на локальных проектах. На данный момент активно веду поиск стажировки для начала своего пути в IT сфере
