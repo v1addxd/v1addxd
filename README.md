@@ -9,7 +9,7 @@
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/info)
 
 ### Выполненные проекты
-- [Выполнение тестового задания для Effective Mobile] (https://drive.google.com/drive/folders/1oj2KOv20MiAL54UHZgQKqUqCwPMifz7c?hl=ru)
+- [Выполнение тестового задания для Effective Mobile](https://drive.google.com/drive/folders/1oj2KOv20MiAL54UHZgQKqUqCwPMifz7c?hl=ru)
 
 ### Tools:
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira&logoColor=47C5FB)
